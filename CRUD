@@ -1,0 +1,10 @@
+file_name - "messages/my_message.txt"
+
+with open(file-name, "w") as file:
+  f.write("Hello World")
+  f.write("\n")
+  f.write("\n")
+  f.write("...")
+  f.write("\n")
+  f.write("\n")
+  f.write("Goodbye")
